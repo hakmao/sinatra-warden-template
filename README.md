@@ -50,3 +50,9 @@ First of all thanks to God for supporting me, and all those that are here in
 this repos I hope you found this repo usefull. 
 
 
+### Note
+
+For the records please go to this [link](http://sklise.com/2013/03/08/sinatra-warden-auth/), [rrshaban](https://github.com/rrshaban) thinks this repo is taken from that site, and I really don't remember but if was so my apologies, by the way, very good tutorial, must read!! 
+
+
+
